@@ -10,7 +10,7 @@ Projet 2 : Faire un premier site avec backend
 
 Petit Padawan, pour t'éviter ce fameux :
 
-````$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
+```$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
 
 ```$ bundle install```
 
