@@ -2,37 +2,54 @@
 
 ## Introduction
 
-Projet est à faire en pair-programming
-
 Projet 1 : Pages statiques
+
 Projet 2 : Faire un premier site avec backend
 
-## How is it suppose to work ?
+## Instructions correcteurs
 
-Pour faire tourner tous les fichiers, il est nécessaire d'installer plusieurs gems. 
-Pour cela, rien de plus simple : une fois le dossier cloné sur l'ordinateur, 
+Petit Padawan, pour t'éviter ce fameux :`
 ```$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
-il suffit d'accéder au dossier et de faire 
+
 ```$ bundle install```
-Et voilà, toutes les gems sont installés !
+
+
+Je t'invite à cliquer juste ici => [Projet 1](link/).
+
+[Projet 2](link/). <= Maintenant, plutôt là  
 
 
 ## Petit Bilan :
 
+1 - Pages Statiques
+  [x] Les bases
+  [x] Un peu de mise en forme
+  [x] Premières pages
+  
+2 - Faire un premier site avec backend
+[x] La base de données
+[x] Les premières pages
 
-Faire un premier site avec backend
-[x] PLS 
-[x] PLS
-[x] PLS
-[x]  
-[x] 
+3 - Création d'utilisateur
+        [x] Le formulaire
+        [x] Les routes, le POST
+        [x] Jouer avec les params
+        [ ] Redirection
+        
+4 - Page profil pour les utilisateurs
+        [ ] Création page profil
+        [ ] Redirection vers la page profil
+        
+5 - Un vrai username
+        [ ] Des validations
+        [ ] Redirection
+        [ ] /users/username
+        
 
-:pray: :smile:
+:pray: Bon, on avance à notre rythme, mais on avance ! :smile:
 
 
 **_ _Alex & Jordane_ _**
-
-
 
 
 ###### Slack :love_letter:
