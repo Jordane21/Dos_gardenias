@@ -60,7 +60,7 @@ Positionnes-toi dans ton dossier
 [ ] /users/username
         
 
-## Alex :bowtie: & Jordane :pig:
+## Alex & Jordane :pig:
 
 :pray: :snail: Bon, on avance à notre rythme, mais on avance ! :smile:
 
