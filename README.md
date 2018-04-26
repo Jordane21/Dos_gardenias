@@ -24,47 +24,46 @@ Je t'invite à cliquer juste ici => [Projet 1](link/).
 
 1 - Pages Statiques
 
-     [x] Les bases
+[x] Les bases
   
-     [x] Un peu de mise en forme
+[x] Un peu de mise en forme
   
-     [x] Premières pages
+[x] Premières pages
   
 2 - Faire un premier site avec backend
 
-    [x] La base de données
+[x] La base de données
 
-    [x] Les premières pages
+[x] Les premières pages
 
 3 - Création d'utilisateur
 
-        [x] Le formulaire
+[x] Le formulaire
         
-        [x] Les routes, le POST
+[x] Les routes, le POST
         
-        [x] Jouer avec les params
+[x] Jouer avec les params
         
-        [ ] Redirection
+[ ] Redirection
         
 4 - Page profil pour les utilisateurs
 
-        [ ] Création page profil
+[ ] Création page profil
         
-        [ ] Redirection vers la page profil
+[ ] Redirection vers la page profil
         
 5 - Un vrai username
 
-        [ ] Des validations
+[ ] Des validations
         
-        [ ] Redirection
+[ ] Redirection
         
-        [ ] /users/username
+[ ] /users/username
         
-
-:pray: :snail: Bon, on avance à notre rythme, mais on avance ! :smile:
-
 
 ## Alex :bowtie: & Jordane :pig:
+
+:pray: :snail: Bon, on avance à notre rythme, mais on avance ! :smile:
 
 ###### Slack :love_letter:
 
