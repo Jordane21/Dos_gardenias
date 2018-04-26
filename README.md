@@ -8,16 +8,15 @@ Projet 2 : Faire un premier site avec backend
 
 ## Instructions correcteurs
 
-Petit Padawan, pour t'éviter ce fameux :
+Petit Padawan, nous t'invitons à exécuter les commandes suivantes dans ton terminal :
 
-```$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
+
+```$ git clone https://github.com/Jordane21/Dos_gardenias```
+
+Positionnes-toi dans ton dossier
 
 ```$ bundle install```
 
-
-Je t'invite à cliquer juste ici => [Projet 1](link/).
-
-[Projet 2](link/). <= Maintenant, plutôt là  
 
 
 ## Petit Bilan :
