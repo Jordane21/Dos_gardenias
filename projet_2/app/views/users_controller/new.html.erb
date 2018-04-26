@@ -1,0 +1,12 @@
+<h1>Welcome new user</h1>
+<p>bla bla blaaaaablblaaaa</p>
+<div><form action='/new' method='post'>
+    <input type="hidden" name="authenticity_token"
+    value="<%= form_authenticity_token%>">
+    Ton ptit nom :<br>
+    <input type="text" name="name"><br>
+    Ta bio :<br>
+    <textarea name="bio" rows="10" cols="30">
+    Ecris ta bio juste ici.</textarea><br><br>
+    <input type="submit" value="Submit">
+</form></div>
