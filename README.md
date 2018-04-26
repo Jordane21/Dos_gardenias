@@ -8,8 +8,9 @@ Projet 2 : Faire un premier site avec backend
 
 ## Instructions correcteurs
 
-Petit Padawan, pour t'éviter ce fameux :`
-```$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
+Petit Padawan, pour t'éviter ce fameux :
+
+````$ git clone https://github.com/Jordane21/S4-BDD-ActiveRecord.git```
 
 ```$ bundle install```
 
@@ -22,27 +23,41 @@ Je t'invite à cliquer juste ici => [Projet 1](link/).
 ## Petit Bilan :
 
 1 - Pages Statiques
+
   [x] Les bases
+  
   [x] Un peu de mise en forme
+  
   [x] Premières pages
   
 2 - Faire un premier site avec backend
+
 [x] La base de données
+
 [x] Les premières pages
 
 3 - Création d'utilisateur
+
         [x] Le formulaire
+        
         [x] Les routes, le POST
+        
         [x] Jouer avec les params
+        
         [ ] Redirection
         
 4 - Page profil pour les utilisateurs
+
         [ ] Création page profil
+        
         [ ] Redirection vers la page profil
         
 5 - Un vrai username
+
         [ ] Des validations
+        
         [ ] Redirection
+        
         [ ] /users/username
         
 
