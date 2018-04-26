@@ -24,17 +24,17 @@ Je t'invite à cliquer juste ici => [Projet 1](link/).
 
 1 - Pages Statiques
 
-  [x] Les bases
+     [x] Les bases
   
-  [x] Un peu de mise en forme
+     [x] Un peu de mise en forme
   
-  [x] Premières pages
+     [x] Premières pages
   
 2 - Faire un premier site avec backend
 
-[x] La base de données
+    [x] La base de données
 
-[x] Les premières pages
+    [x] Les premières pages
 
 3 - Création d'utilisateur
 
@@ -61,11 +61,10 @@ Je t'invite à cliquer juste ici => [Projet 1](link/).
         [ ] /users/username
         
 
-:pray: Bon, on avance à notre rythme, mais on avance ! :smile:
+:pray: :snail: Bon, on avance à notre rythme, mais on avance ! :smile:
 
 
-##Alex :bowtie: & Jordane :pig:
-
+## Alex :bowtie: & Jordane :pig:
 
 ###### Slack :love_letter:
 
