@@ -64,7 +64,7 @@ Je t'invite à cliquer juste ici => [Projet 1](link/).
 :pray: Bon, on avance à notre rythme, mais on avance ! :smile:
 
 
-**_ _Alex & Jordane_ _**
+##Alex :bowtie: & Jordane :pig:
 
 
 ###### Slack :love_letter:
