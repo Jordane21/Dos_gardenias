@@ -21,7 +21,7 @@ Positionnes-toi dans ton dossier
 
 ## Petit Bilan :
 
-1 - Pages Statiques
+**1 - Pages Statiques**
 
   [x] Les bases
   
@@ -29,13 +29,13 @@ Positionnes-toi dans ton dossier
   
   [x] Premières pages
   
-2 - Faire un premier site avec backend
+**2 - Faire un premier site avec backend**
 
   [x] La base de données
 
   [x] Les premières pages
 
-3 - Création d'utilisateur
+**3 - Création d'utilisateur**
 
   [x] Le formulaire
 
@@ -44,14 +44,14 @@ Positionnes-toi dans ton dossier
   [x] Jouer avec les params
 
   [ ] Redirection
-        
-4 - Page profil pour les utilisateurs
+        
+**4 - Page profil pour les utilisateurs**
 
   [ ] Création page profil
 
   [ ] Redirection vers la page profil
         
-5 - Un vrai username
+**5 - Un vrai username**
 
   [ ] Des validations
 
