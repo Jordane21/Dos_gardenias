@@ -22,7 +22,10 @@ nous t'invitons à exécuter les commandes suivantes dans ton terminal :
 Positionnes-toi dans ton dossier
 
 ```$ bundle install```
+ 
+```$ rails db:migrate```
 
+```$ rails server```
 
 
 ## Petit Bilan :
