@@ -8,7 +8,13 @@ Projet 2 : Faire un premier site avec backend
 
 ## Instructions correcteurs
 
-Petit Padawan, nous t'invitons à exécuter les commandes suivantes dans ton terminal :
+Petit Padawan, bienvenue, merci de nous corriger ! 
+
+Alex vous propose => [clik là](https://youtu.be/2np9nzPVIXQ/) :notes: :massage:
+
+Maintenant que tu es en condition, 
+
+nous t'invitons à exécuter les commandes suivantes dans ton terminal :
 
 
 ```$ git clone https://github.com/Jordane21/Dos_gardenias```
