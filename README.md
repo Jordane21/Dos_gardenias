@@ -23,42 +23,42 @@ Positionnes-toi dans ton dossier
 
 1 - Pages Statiques
 
-[x] Les bases
+  [x] Les bases
   
-[x] Un peu de mise en forme
+  [x] Un peu de mise en forme
   
-[x] Premières pages
+  [x] Premières pages
   
 2 - Faire un premier site avec backend
 
-[x] La base de données
+  [x] La base de données
 
-[x] Les premières pages
+  [x] Les premières pages
 
 3 - Création d'utilisateur
 
-[x] Le formulaire
-        
-[x] Les routes, le POST
-        
-[x] Jouer avec les params
-        
-[ ] Redirection
+  [x] Le formulaire
+
+  [x] Les routes, le POST
+
+  [x] Jouer avec les params
+
+  [ ] Redirection
         
 4 - Page profil pour les utilisateurs
 
-[ ] Création page profil
-        
-[ ] Redirection vers la page profil
+  [ ] Création page profil
+
+  [ ] Redirection vers la page profil
         
 5 - Un vrai username
 
-[ ] Des validations
-        
-[ ] Redirection
-        
-[ ] /users/username
-        
+  [ ] Des validations
+
+  [ ] Redirection
+
+  [ ] /users/username
+
 
 ## Alex & Jordane :pig:
 
